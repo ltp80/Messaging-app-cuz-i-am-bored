@@ -1,2 +1,2 @@
-displayname,sessionToken,"uniqueId",mail,PasswordHash
+displayname,sessionToken,"uniqueId",mail,passwordHash
 "trekmijnpin","{""auth"": ""bearer"", ""token"": ""long ass string""}","0000001","testing@trekmijnpin.flocheland","hashedPW"
